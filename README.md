@@ -5,8 +5,6 @@ The Cancer Radiomic and Perfusion Imaging (CARPI) automated framework is a Pytho
 &nbsp; c) Relational database generation <br />
 &nbsp; d) Graphic report generation
 
-![carpi_reports](https://github.com/ABASTI-Lab/CARPI/assets/143734103/aa7742d1-fefc-477d-a25b-67584817de2c)
-
 # Complete the Following Steps to Succesfully Run CARPI:
 STEP 1. Download the CARPI directory from this repository. <br />
 STEP 2. Install the required Python libraries:  <br />
