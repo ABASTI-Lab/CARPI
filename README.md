@@ -6,7 +6,7 @@ The Cancer Radiomic and Perfusion Imaging (CARPI) automated framework is a Pytho
 &nbsp; d) Graphic report generation
 
 # Complete the Following Steps to Succesfully Run CARPI:
-STEP 1: Download the complete CARPI directory from this repository. <br />
+STEP 1: Download the CARPI directory from this repository. <br />
 STEP 2: Download and configure PostgreSQL: https://www.postgresql.org/download/ <br />
 STEP 3: Open the **database.ini** file and edit it according to your PostgreSQL configuration. <br />
 STEP 4: Open the **CARPI_Main.py** script and enter the user-required variables. <br />
