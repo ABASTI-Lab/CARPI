@@ -1,9 +1,9 @@
 # CARPI Automated Framework
 The Cancer Radiomic and Perfusion Imaging (CARPI) automated framework is a Python-based software application that is vendor- and sequence-neutral. CARPI uses DICOM-RT files generated using an application of the user's choice and automatically performs: <br />
-a) Radiomic feature extraction <br />
-b) Perfusion analysis <br />
-c) Relational database generation <br />
-d) Graphic report generation
+&nbsp; a) Radiomic feature extraction <br />
+&nbsp; b) Perfusion analysis <br />
+&nbsp; c) Relational database generation <br />
+&nbsp; d) Graphic report generation
 
 # Complete the Following Steps to Succesfully Run CARPI:
 STEP 1: Download the complete CARPI directory from this repository. <br />
