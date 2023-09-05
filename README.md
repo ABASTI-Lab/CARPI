@@ -15,6 +15,9 @@ STEP 2. Install the required Python libraries: <br />
 &emsp;&emsp; c) pip install pyradiomics <br />
 &emsp;&emsp; d) pip install psycopg2 <br />
 STEP 3. Download and configure PostgreSQL: https://www.postgresql.org/download/ <br />
-STEP 4. Open the **database.ini** file and edit it according to your PostgreSQL configuration. <br />
+STEP 4. Open the **database.ini** file and edit it according to your PostgreSQL configuration: <br />
+
+<img width="243" alt="database_file" src="https://github.com/ABASTI-Lab/CARPI/assets/143734103/8c9ef795-e371-4036-9d82-4f8ff63c450f">
+
 STEP 5. Open the **CARPI_Main.py** script and enter the user-defined variables. <br />
 STEP 6. Run **CARPI_Main.py**
