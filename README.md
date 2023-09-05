@@ -21,6 +21,6 @@ The **Cancer Radiomic and Perfusion Imaging (CARPI)** automated framework is a P
 
 **STEP 5.** Open the **CARPI_Main.py** script and enter the user-defined variables: <br />
 
-<img width="545" alt="carpi_main" src="https://github.com/ABASTI-Lab/CARPI/assets/143734103/ebe46632-25bf-4d4e-85e7-b2ae0ee3e77a">
+<img width="540" alt="carpi_main" src="https://github.com/ABASTI-Lab/CARPI/assets/143734103/20c0cd5a-ba2b-40d2-be5d-1482e0aae2d7">
 
 **STEP 6.** Run **CARPI_Main.py**
