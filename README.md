@@ -7,7 +7,7 @@ The **Cancer Radiomic and Perfusion Imaging (CARPI)** automated framework is a P
 
 ![carpi_reports](https://github.com/ABASTI-Lab/CARPI/assets/143734103/78a2bfd5-3665-4ac5-adc7-0917687cbac9)
 
-# Complete the Following Steps to Succesfully Run CARPI:
+# Complete the Following Steps to Successfully Run CARPI:
 **STEP 1.** Download the CARPI directory from this repository. <br />
 **STEP 2.** Install the required Python libraries: <br />
 &emsp;&emsp; a) pip install pydicom <br />
