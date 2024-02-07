@@ -4,6 +4,7 @@ The **Cancer Radiomic and Perfusion Imaging (CARPI)** automated framework is a P
 &nbsp; b) Perfusion Analysis <br />
 &nbsp; c) Relational Database Generation <br />
 &nbsp; d) Graphic Report Generation**
+**Link to Research Article:** https://ascopubs.org/doi/10.1200/CCI.23.00118 
 
 ![carpi_reports](https://github.com/ABASTI-Lab/CARPI/assets/143734103/78a2bfd5-3665-4ac5-adc7-0917687cbac9)
 
